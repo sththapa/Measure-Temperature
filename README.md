@@ -1,6 +1,6 @@
-# myfirstapp
+# Measure Temperature
 
-A new Flutter project.
+This app helps you to see the live temperature of any cities and countries..Just press the button..There's your place temperature
 
 ## Getting Started
 
